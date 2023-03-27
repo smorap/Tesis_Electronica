@@ -7,10 +7,10 @@ En este repositorio estarán todos los archivos y documentos referentes a mi tes
  3. [Ejemplos_Modulos](/Ejemplos_Modulos)
  4. [App monitoreo](/APP)
  
-### [Documento](/Codigo_final_comentado)
+### [Documento](/Tesis_Grillos__Final.pdf)
  Documento oficial de la Tesis. En el se encuentra al detalle el procesos de concepción, desarrollo e implementacion del sistema de monitoreo.
 
-### [Código final](/Tesis_Grillos__Final.pdf)
+### [Código final](/Codigo_final_comentado)
  El sistema está conformado por un Nodo Central y dos Nodos sensores. Acá se encontrarán los archivos (.ino) respectivos de los nodos.
 
 ### [Ejemplos Modulos](/Ejemplos_Modulos)
