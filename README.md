@@ -25,7 +25,7 @@ El sistema está conformado por un Nodo Central y dos Nodos sensores. Acá se en
 Codigos ejemplos de como usar los sensores y modulos del sistema. 
 
 ### [App Monitoreo](/APP) 
-Esta es la app para Android (.apk) donde se pueden visualizar los datos diseñada con la herramienta APP INVENTOR. (Puede descargarse pero no mostrará ningun dato si no se conecta al Nodo Central.      Usuario/Contraseña: admin)
+Esta es la app para Android (.apk) donde se pueden visualizar los datos, diseñada con la herramienta APP INVENTOR. (Puede descargarse pero no mostrará ningun dato si no se conecta al Nodo Central. Usuario/Contraseña: admin)
 
 ### [Demo](https://youtu.be/ObIBGK47P2o) 
 Video Youtube: https://youtu.be/ObIBGK47P2o
