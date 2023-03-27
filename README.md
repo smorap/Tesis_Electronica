@@ -16,4 +16,4 @@ En este repositorio estarán todos los archivos y documentos referentes a mi tes
  Codigos ejemplos de como usar los sensores y modulos del sistema. 
 
  ### [App Monitoreo](/) 
- Esta es la app para visualizar los datos. (Puede descagarse pero no mostrara ningun dato si no se conecta al Nodo Central. Usuario/Contraseña: Admin)
+ Esta es la app para visualizar los datos. (Puede descargarse pero no mostrará ningun dato si no se conecta al Nodo Central. Usuario/Contraseña: admin)
