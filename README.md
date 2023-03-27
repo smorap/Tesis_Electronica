@@ -5,7 +5,8 @@ En este repositorio estarán todos los archivos y documentos referentes a mi tes
  1. [Documento](/Tesis_Grillos__Final.pdf) 
  2. [Codigo_final_comentado](/Codigo_final_comentado)
  3. [Ejemplos_Modulos](/Ejemplos_Modulos)
- 4. [App monitoreo](/)
+ 4. [App monitoreo](/App)
+ 
  ### [Codigo final](/Tesis_Grillos__Final.pdf)
  El sistema está conformado por un Nodo Central y Dos nodos sensores. Acá se encontrarán los archivos .ino respectivos de los nodos.
 
