@@ -10,7 +10,7 @@ El trabajo desarrollado consiste en el diseño, implementación y prueba de un s
 
 ## Contenidos
  1. [Documento](/Tesis_Grillos__Final.pdf) 
- 2. [Código_final_comentado](/Codigo_final_comentado)
+ 2. [Código final](/Codigo_final_comentado)
  3. [Ejemplos_Modulos](/Ejemplos_Modulos)
  4. [App monitoreo](/APP)
  
