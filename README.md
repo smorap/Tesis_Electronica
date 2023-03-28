@@ -1,7 +1,7 @@
 # **Tesis Electrónica (Dissertation)**
 En este repositorio estarán todos los archivos y documentos referentes a mi tesis de pregrado titulado "Monitoreo de ambiente en granja de grillos Gryllodes Sigillatus".
 
-## ***Abstrac (English)***
+## ***Abstract (English)***
 Acording to the CDIO methodology, this document records the process of conception, design, implementation and testing of an environment monitoring system for a cricket farm. This monitoring system has two Sensor Nodes, a Central Node and a smartphone application to view the information. The nodes communicate with each other through the NRF24L01 module and the Central Node uses a Bluetooth HC-06 module to communicate with the smartphone app. Each node incorporates an ATMEGA238p that receives information from the communication modules and from two sensors in the case of the Sensor Node, the DHT22 and two load cells. The environmental variables monitored by each Sensor Node are humidity and temperature with the DHT22, and weight with a load cell. The data is processed by the microcontroller and sent to a mobile phone to be displayed in an application programmed with the MIT APP inventor tool. In the application the environmental variations are visualized in real time and in graphs an average record of the last 22 hours of the received data is shown. The application has the ability to alert if the recorded values are out of ranges that can be configured within the application. Throughout the document each of the above aspects is shown in detail and at the end the system is evaluated for each of the parts that comprise it.
 
 ## ***Descripción (Español)***
