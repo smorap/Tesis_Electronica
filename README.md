@@ -1,4 +1,4 @@
-# **Tesis Electrónica**
+# **Tesis Electrónica (Dissertation)**
 En este repositorio estarán todos los archivos y documentos referentes a mi tesis de pregrado titulado "Monitoreo de ambiente en granja de grillos Gryllodes Sigillatus".
 
 ## ***Abstrac (English)***
